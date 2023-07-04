@@ -1,0 +1,7 @@
+a = int(input())
+b = int(input())
+divisão1 = float(a/b)
+divisão2 = int(a/b)
+print(f"{divisão1:.2f}")
+print(divisão2)
+print(a%b)
